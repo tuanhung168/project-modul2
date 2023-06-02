@@ -1,0 +1,118 @@
+header {
+  background-color: black;
+  text-align: center;
+}
+
+header img {
+  width: 10%;
+}
+
+footer img {
+  width: 100px;
+}
+
+footer {
+  display: flex;
+  justify-content: space-around;
+  height: auto;
+  bottom: 0;
+}
+
+main {
+  max-width: 1300px;
+  margin: 0 auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.table-title {
+  text-align: center;
+}
+
+.table-button button {
+  background-color: black;
+  color: white;
+}
+
+.table-button button:hover {
+  background-color: rgb(37, 35, 35);
+  color: white;
+}
+
+.add-title {
+  text-align: center;
+}
+
+.add-main {
+  max-width: 1300px;
+  margin: 0 auto;
+  margin-top: 40px;
+  box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+  height: 450px;
+  padding: 30px;
+  margin-bottom: 40px;
+  height: 500px;
+}
+
+Form {
+  width: 50%;
+  font-weight: bold;
+  
+}
+
+
+.add-form {
+  padding-left: 450px;
+  
+  margin-top: 25px;
+}
+
+.image-table {
+  width: 100px;
+}
+
+.pagination-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.pagination {
+  display: flex;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.page-item {
+  margin: 0 5px;
+}
+
+.page-link {
+  color: #333;
+  border: 1px solid #ccc;
+  padding: 5px 10px;
+  text-decoration: none;
+  transition: background-color 0.3s;
+}
+
+.page-link:hover {
+  background-color: #f8f9fa;
+}
+
+.page-item.active .page-link {
+  background-color: #007bff;
+  color: #fff;
+  border-color: #007bff;
+}
+
+.page-item.disabled .page-link {
+  background-color: #f8f9fa;
+  color: #6c757d;
+  border-color: #dee2e6;
+  cursor: not-allowed;
+}
+
+.btn-delete {
+ 
+}

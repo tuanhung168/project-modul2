@@ -1,0 +1,196 @@
+{
+  "product": [
+    {
+      "tagname": "shorts",
+      "id": 5,
+      "title": "BOTTOM",
+      "name": "DIGITAL SHORT",
+      "price": "12",
+      "src": "https://vietgangz.com/wp-content/uploads/2022/08/297168988_502950855004141_3225737449258262377_n.jpg",
+      "quantity": 200
+    },
+    {
+      "tagname": "shorts",
+      "id": 6,
+      "title": "BOTTOM",
+      "name": "BECA B",
+      "price": 295000,
+      "src": "https://vietgangz.com/wp-content/uploads/2022/04/278804266_682056426337999_1154465334780964976_n-247x247.jpg",
+      "quantity": 200
+    },
+    {
+      "tagname": "shorts",
+      "id": 7,
+      "title": "BOTTOM",
+      "name": "VG Basic Short – White",
+      "price": 290000,
+      "src": "https://vietgangz.com/wp-content/uploads/2020/09/IMG_55233-scaled-1-280x280.jpg",
+      "quantity": 200
+    },
+    {
+      "tagname": "shorts",
+      "id": 8,
+      "title": "BOTTOM",
+      "name": "BECA W",
+      "price": 325000,
+      "src": "https://vietgangz.com/wp-content/uploads/2022/04/278656657_705727987436859_3977369662523631972_n-510x510.jpg",
+      "quantity": 200
+    },
+    {
+      "tagname": "hoodies",
+      "id": 9,
+      "title": "TOPS",
+      "name": "ZIP HOODIE CARLINER",
+      "price": 580000,
+      "src": "https://vietgangz.com/wp-content/uploads/2023/01/853627ea1bb9c0e799a8.jpg",
+      "quantity": 200
+    },
+    {
+      "tagname": "jackets",
+      "id": 10,
+      "title": "TOPS",
+      "name": "JACKET CAMO LINER",
+      "price": 580000,
+      "src": "https://vietgangz.com/wp-content/uploads/2023/01/NEW2-280x280.jpg",
+      "quantity": 200
+    },
+    {
+      "tagname": "hoodies",
+      "id": 19,
+      "title": "TOPS",
+      "name": "SAMURAI",
+      "price": 580000,
+      "src": "https://vietgangz.com/wp-content/uploads/2022/11/312878559_478347691062868_1048511995444778893_n-510x510.jpg",
+      "quantity": 200
+    },
+    {
+      "tagname": "hoodies",
+      "id": 20,
+      "title": "TOPS",
+      "name": "Vietgangz NorthEast 2022",
+      "price": 690000,
+      "src": "https://vietgangz.com/wp-content/uploads/2022/11/sau-510x510.jpg",
+      "quantity": 200
+    },
+    {
+      "tagname": "hoodies",
+      "id": 21,
+      "title": "TOPS",
+      "name": "Alway Happy",
+      "price": 439000,
+      "src": "https://vietgangz.com/wp-content/uploads/2020/12/always-happy2-scaled-510x510.jpg",
+      "quantity": 200
+    },
+    {
+      "tagname": "jackets",
+      "id": 22,
+      "title": "TOPS",
+      "name": "Vietgangz Car Club Base",
+      "price": 980000,
+      "src": "https://vietgangz.com/wp-content/uploads/2022/12/0ad2e063d2660a385377-510x510.jpg",
+      "quantity": 200
+    },
+    {
+      "tagname": "jackets",
+      "id": 23,
+      "title": "TOPS",
+      "name": "Varsity Vietgangz MC",
+      "price": 1200000,
+      "src": "https://vietgangz.com/wp-content/uploads/2022/01/2-1-510x510.jpg",
+      "quantity": 200
+    },
+    {
+      "tagname": "jackets",
+      "id": 24,
+      "title": "TOPS",
+      "name": "Jacket RD",
+      "price": 690000,
+      "src": "https://vietgangz.com/wp-content/uploads/2022/01/11-510x510.jpg",
+      "quantity": 200
+    },
+    {
+      "tagname": "pants",
+      "src": "https://vietgangz.com/wp-content/uploads/2023/02/330006991_590919739107108_7189162773364106924_n-280x280.jpg",
+      "name": "GORN PANTS",
+      "price": "420000",
+      "id": 25
+    }
+  ],
+  "user": [
+    {
+      "name": "tuanhung",
+      "email": "tuanhung@gmail.com",
+      "password": "hungcoi12",
+      "address": "th,pt",
+      "date": "2023-04-06",
+      "phone": "123456789",
+      "id": 1
+    },
+    {
+      "name": "dss",
+      "email": "f@gmail.com",
+      "password": "asd",
+      "address": "hn",
+      "date": "2023-05-11",
+      "phone": "77766",
+      "id": 2
+    },
+    {
+      "name": "tuanhung",
+      "email": "tuanhung@gmail.com",
+      "password": "hungcoi12",
+      "address": "sdfdsf",
+      "date": "2023-05-18",
+      "phone": "12345678",
+      "id": 3
+    },
+    {
+      "name": "tuanhung",
+      "email": "tuanhung@gmail.com",
+      "password": "hungcoi12",
+      "address": "dsfsdcx",
+      "date": "2023-05-14",
+      "phone": "1234567",
+      "id": 4
+    }
+  ],
+  "cart": [
+    {
+      "id": 1,
+      "name": [
+        {
+          "tagname": "jackets",
+          "id": 10,
+          "title": "TOPS",
+          "name": "JACKET CAMO LINER",
+          "price": 580000,
+          "src": "https://vietgangz.com/wp-content/uploads/2023/01/NEW2-280x280.jpg",
+          "quantity": 200,
+          "count": 1
+        },
+        {
+          "tagname": "hoodies",
+          "id": 20,
+          "title": "TOPS",
+          "name": "Vietgangz NorthEast 2022",
+          "price": 690000,
+          "src": "https://vietgangz.com/wp-content/uploads/2022/11/sau-510x510.jpg",
+          "quantity": 200,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": []
+    },
+    {
+      "id": 3,
+      "name": []
+    },
+    {
+      "id": 4,
+      "name": []
+    }
+  ]
+}
